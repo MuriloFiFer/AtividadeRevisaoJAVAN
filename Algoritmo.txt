@@ -1,0 +1,4 @@
+exemplo 1
+1. Ler um nº informado pelo usuario.
+2. Se nº for > 10 entãomostre "é > que 10!".
+3. Senão então mostre "não pe > que 10!"
